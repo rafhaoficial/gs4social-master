@@ -1,0 +1,83 @@
+{
+  "translation":
+  {  
+    
+    "Email": "Courriel",
+    "Senha": "Mot de pass",
+    "Sua conta foi bloqueada no nosso sistema.": "Vôtre compte a été bloqué",
+    "Email digitado é invalido": "Courriel invalide",
+    "Usuário não cadastrado ou incorreto": "Utilisateur introuvable ou incorrect",
+    "A senha é invalida para este usuário": "Mot de passe incorrect",
+    "Confirme seu email para navegar no applicativo": "Veuillez confirmer votre courriel pour utiliser l'application",
+    "Insira seu Email e Senha para efetuar o login.": "Entrez votre courriel et mot de passe pour vous connecter",
+    "Entrar": "Entrez",
+    "Entrar sem Cadastro": "Entrer sans login",
+    "Link para redifinir senha enviado para seu email com sucesso!!": "Le lien pour réinitialiser votre mot de passe a été envoyé à votre courriel",
+    "Digite o seu email para solicitar nova senha": "Écrivez votre courriel pour demander un nouveau mot de passe",
+    "Esqueci Minha Senha": "J'ai oublié mon mot de passe",
+    "Cadastre-se": "Inscrivez-vous",
+
+  "Home": "Accueil",
+  "Doações": "Des dons",
+  "Menu": "Menu",
+  "Localização": "Emplacement",
+
+  "Não há permissão para geolocalização": "Pas d'autorisation de géolocalisation",
+  "Nenhuma instituição foi encontrada nessa região": "Aucune institution n'a été trouvée dans cette région",
+  "Aproxime mais o mapa": "Agrandir la carte",
+  "Buscar nessa região": "Rechercher dans cette région",
+  "Visualizar Perfil": "Voir le profil",
+  "Marque/Desmarque as categorias e as organizações que deseja visualizar": "Cochez/décochez les catégories et les organisations que vous souhaitez visualiser",
+  "Pesquise cidade": "Rechercher une ville",
+  "Meio Ambiente": "Environnement",
+  "Alimentos": "Banque alimentaire",
+  "Saúde": "Santé",
+  "Habitação": "Abri",
+  "Educação": "Éducation",
+  "Pets": "Animaux domestiques",
+  "ONGs": "ONGs",
+  "Orgãos Públicos": "Organismes publics",
+  "Igrejas": "Des églises",
+
+  "Navegação": "La navigation",
+
+  "Não foi possivel traçar rota": "Il n'a pas été possible de tracer l'itinéraire",
+  "Verifique sua conexão com a internet e tente novamente": "Vérifiez votre connexion Internet et réessayez",
+  "Tentar Novamente": "Réessayer",
+  "Voltar": "Retour",
+
+  "Cadastro": "Inscription",
+
+  "Confirme seu email para navegar no aplicativo": "Confirmez votre e-mail pour parcourir l'application",
+  "A confirmação da senha e do email não corresponde com a senha e o email inicial": "La confirmation des informations d'identification ne correspond pas",
+  "A confirmação da senha não corresponde com a senha inicial": "La confirmation du mot de passe ne correspond pas",
+  "A confirmação do email não corresponde com o email inicial": "La confirmation du courriel ne correspond pas",
+  "Preencha todos os campos e sua localização no mapa": "Remplissez tous les champs et votre emplacement sur la carte",
+  "Aceite os termos e condições do aplicativo para concluir seu cadastro": "Acceptez les conditions générales de l'application pour finaliser votre inscription",
+  "Preencha todos os campos corretamente!": "Remplissez correctement tous les champs",
+  "Nome": "Prénom et nom de famille",
+  "Rua App GS4 Social, 129": "129 Rue GS4 Social",
+  "Verifique se o local indicado acima está correto no mapa": "Vérifiez si l'emplacement sur la carte indiqué ci-dessus est correct",
+  "Endereço Detalhado": "Adresse complète",
+  "Selecione sua Instituição": "Sélectionnez votre établissement",
+  "Confirme o Email": "Confirmez le courriel",
+  "Confirme a Senha": "Confirmez le mot de pass",
+  "WhatsApp": "WhatsApp",
+  "ACEITO OS": "J'ACCEPTE LES" ,
+   "TERMOS DE SERVIÇO E PRIVACIDADE":"CONDITIONS D'UTILISATION ET LA CONFIDENTIALITÉ",
+  "Seja uma Instituição no GS4 Social": "Devenez une institution enregistrée chez GS4 Social",
+  "Fazer Pré-Cadastro": "Pré-inscription",
+  "Aceito os Termos de Serviço e Privacidade": "J'accepte les conditions d'utilisation et de confidentialité",
+
+    
+    "Doador": "Donneur",
+    "Instituição": "Institution",
+    "Cadastre-se no Aplicativo GS4 Social": "Inscrivez-vous à l'application GS4 Social",
+    "Alteração Cadastral": "Changement d'inscription",
+    "Avaliar Aplicativo": "Demande de taux",
+    "Reportar Erro": "Signaler une erreur",
+    "Sair do Aplicativo": "Quitter l'application"
+  
+  }
+  }
+  

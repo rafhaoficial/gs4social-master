@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486346182877",
+    "project_id": "gs4-social",
+    "storage_bucket": "gs4-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486346182877:android:8cb77b9109b875f3948b34",
+        "android_client_info": {
+          "package_name": "com.gs4social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486346182877-9mu9gt4dr3jiujui1folci8kqgdabkm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZ2f58_eGhgQO9JZVJulwlps74oaonZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486346182877-9mu9gt4dr3jiujui1folci8kqgdabkm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
