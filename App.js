@@ -1,6 +1,18 @@
 import React, { useEffect } from 'react';
 import { StatusBar, View, Platform } from 'react-native';
 import Router from './src/router';
+import React from 'react';
+import MapComponent from './MapComponent';
+
+function App() {
+  return (
+    <div className="App">
+      <MapComponent />
+    </div>
+  );
+}
+
+export default App;
 
 export default function App() {
   useEffect(() => {
